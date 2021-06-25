@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Dear-Sans';
+  src: url('font/Dear-Sans.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Dear-Sans-Book';
+  src: url('font/Dear-Sans-Book.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Dear-Sans-Bold';
+  src: url('font/Dear-Sans-Bold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Dear-Sans-Wide';
+  src: url('font/Dear-Sans-Wide.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Wide-Book';
+  src: url('font/Dear-Sans-Wide-Book.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Wide-Bold';
+  src: url('font/Dear-Sans-Wide-Bold.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Expanded';
+  src: url('font/Dear-Sans-Expanded.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Expanded-Book';
+  src: url('font/Dear-Sans-Expanded-Book.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Expanded-Bold';
+  src: url('font/Dear-Sans-Expanded-Bold.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Condensed';
+  src: url('font/Dear-Sans-Condensed.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Condensed-Book';
+  src: url('font/Dear-Sans-Condensed-Book.otf') format('opentype')
+}
+@font-face {
+  font-family: 'Dear-Sans-Condensed-Bold';
+  src: url('font/Dear-Sans-Condensed-Bold.otf') format('opentype')
+}
